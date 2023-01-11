@@ -15,6 +15,7 @@
 
 ## Preview
 
+![image](https://user-images.githubusercontent.com/102666726/211919610-9ee838ca-af98-4ea0-8af5-c1a3529491cc.png)
 
 
 ## 🚀 technologies
